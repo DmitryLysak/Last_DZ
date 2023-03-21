@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Last_DZ\last_dz\bin\Debug\net6.0\last_dz.exe
+C:\Users\1\Desktop\Last_DZ\last_dz\bin\Debug\net6.0\last_dz.deps.json
+C:\Users\1\Desktop\Last_DZ\last_dz\bin\Debug\net6.0\last_dz.runtimeconfig.json
+C:\Users\1\Desktop\Last_DZ\last_dz\bin\Debug\net6.0\last_dz.dll
+C:\Users\1\Desktop\Last_DZ\last_dz\bin\Debug\net6.0\last_dz.pdb
+C:\Users\1\Desktop\Last_DZ\last_dz\obj\Debug\net6.0\last_dz.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Last_DZ\last_dz\obj\Debug\net6.0\last_dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Last_DZ\last_dz\obj\Debug\net6.0\last_dz.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Last_DZ\last_dz\obj\Debug\net6.0\last_dz.AssemblyInfo.cs
+C:\Users\1\Desktop\Last_DZ\last_dz\obj\Debug\net6.0\last_dz.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Last_DZ\last_dz\obj\Debug\net6.0\last_dz.dll
+C:\Users\1\Desktop\Last_DZ\last_dz\obj\Debug\net6.0\refint\last_dz.dll
+C:\Users\1\Desktop\Last_DZ\last_dz\obj\Debug\net6.0\last_dz.pdb
+C:\Users\1\Desktop\Last_DZ\last_dz\obj\Debug\net6.0\last_dz.genruntimeconfig.cache
+C:\Users\1\Desktop\Last_DZ\last_dz\obj\Debug\net6.0\ref\last_dz.dll
